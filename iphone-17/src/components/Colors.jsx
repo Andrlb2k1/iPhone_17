@@ -15,7 +15,7 @@ function Colors() {
     const [selectedColor, setSelectedColor] = useState('blue')
 
     return (
-        <section className="bg-bçack py-20 px-8" id="colors">
+        <section className="bg-bçack py-20 px-8" id="cores">
             <div className="max-w-7xl mx-auto">
                 <div className="text-center mb-16">
                     <h2 className="text-5xl md:text-6xl font-bold mb-4">Escolha sua cor</h2>
